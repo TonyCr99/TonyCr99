@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TonyCr99
 - 🌎 I´m based in Mexico City 
 - 👀 I’m interested in growt my personal brand and my technicall skills.
-- 🌱 I’m currently learning web dev, cloud technologies and phyton dev by myself.
-- 🚀 I’m looking to collaborate on Ambitious proyects to make better the human life.
+- 🌱 I’m currently learning web dev, cloud technologies and phyton dev.
